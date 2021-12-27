@@ -1,6 +1,6 @@
 {
-  "name": "maatwebsite/excel",
-  "description": "Supercharged Excel exports in Laravel",
+  "name": "mahmoudarafat/laravel-excel",
+  "description": "Supercharged Excel exports in Laravel forked from Maatwebsite",
   "license": "MIT",
   "keywords": [
     "laravel",
@@ -15,11 +15,15 @@
     {
       "name": "Maatwebsite.nl",
       "email": "patrick@maatwebsite.nl"
+    },
+    {
+      "name": "Mahmoud Arafat",
+      "email": "mahmoudarafat@gmail.com"
     }
   ],
   "require": {
     "php": ">=5.5",
-    "phpoffice/phpexcel": "^1.8.1",
+    "mahmoudarafat/php-excel": "^1.8",
     "illuminate/cache": "^5.0",
     "illuminate/config": "^5.0",
     "illuminate/filesystem": "^5.0",
