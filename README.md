@@ -1,4 +1,4 @@
-## Laravel Excel v2.1.* for Laravel 5
+## Laravel Excel v2.1.* for Laravel 5 and above depends on phpoffice updated by mahmoudarafat
 
 Looking for Laravel Excel for Laravel 4? Visit the [`1.3` branch](https://github.com/Maatwebsite/Laravel-Excel/tree/1.3)
 
