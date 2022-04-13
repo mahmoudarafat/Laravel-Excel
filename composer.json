@@ -24,9 +24,7 @@
   "require": {
     "php": ">=5.5",
     "mahmoudarafat/php-excel": "^4.1",
-    "illuminate/cache": "^5.0",
-    "illuminate/config": "^5.0",
-    "illuminate/filesystem": "^5.0",
+
     "jeremeamia/superclosure": "^2.3",
     "nesbot/carbon": "~1.0",
     "tijsverkoyen/css-to-inline-styles": "~2.0"
